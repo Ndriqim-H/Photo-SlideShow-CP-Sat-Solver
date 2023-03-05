@@ -1,0 +1,93 @@
+CpSolverResponse summary:
+status: OPTIMAL
+objective: 51
+best_bound: 51
+booleans: 269
+conflicts: 0
+branches: 625
+propagations: 3690
+integer_propagations: 4591
+restarts: 539
+lp_iterations: 260
+walltime: 59.2213
+usertime: 59.2213
+deterministic_time: 0.351303
+gap_integral: 0.000630342
+solution_fingerprint: 0xbac2064591e8a78b
+
+Solution:
+Objective value = 51.0
+
+============================    1    ============================
+Solution 2:
+CpSolverResponse summary:
+status: OPTIMAL
+objective: 51
+best_bound: 51
+booleans: 269
+conflicts: 0
+branches: 625
+propagations: 3690
+integer_propagations: 4591
+restarts: 539
+lp_iterations: 246
+walltime: 62.565
+usertime: 62.565
+deterministic_time: 0.336085
+gap_integral: 0.00051018
+solution_fingerprint: 0xbac2064591e8a78b
+
+default_lp
+optimization model '': (model_fingerprint: 0x17f955ab0e9f41c4)
+#Variables: 2029200 (#bools:778582 in objective)
+  - 2029200 Booleans in [0,1]
+#kLinear2: 2029200
+#kLinearN: 73175 (#terms: 204214468)
+Solution:
+Objective value = 51.0
+z0,40 =  1
+z1,10 =  1
+z2,39 =  1
+z3,21 =  1
+z4,2 =  1
+z5,31 =  1
+z6,7 =  1
+z7,14 =  1
+z8,27 =  1
+z9,35 =  1
+z10,4 =  1
+z11,28 =  1
+z12,22 =  1
+z13,5 =  1
+z14,17 =  1
+z15,1424 =  1
+z17,0 =  1
+z18,24 =  1
+z19,12 =  1
+z20,34 =  1
+z21,37 =  1
+z22,19 =  1
+z23,18 =  1
+z24,38 =  1
+z26,11 =  1
+z27,6 =  1
+z28,26 =  1
+z29,41 =  1
+z30,13 =  1
+z31,43 =  1
+z32,9 =  1
+z33,20 =  1
+z34,46 =  1
+z35,3 =  1
+z36,42 =  1
+z37,29 =  1
+z38,16 =  1
+z39,36 =  1
+z40,23 =  1
+z41,44 =  1
+z42,33 =  1
+z43,1 =  1
+z44,45 =  1
+z45,15 =  1
+z46,30 =  1
+z47,32 =  1

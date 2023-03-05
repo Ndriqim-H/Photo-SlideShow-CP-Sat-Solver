@@ -1,0 +1,11 @@
+10
+V 1 dea
+V 2 abc ijk
+V 1 pop
+V 2 ijk xyz
+H 2 xyz opq
+H 2 opq ora
+V 2 dea mov
+V 2 ora dea
+V 2 mov ira
+V 2 dea gav

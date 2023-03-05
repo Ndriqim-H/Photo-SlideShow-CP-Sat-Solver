@@ -1,0 +1,40 @@
+CpSolverResponse summary:
+status: OPTIMAL
+objective: 124
+best_bound: 124
+booleans: 379
+conflicts: 0
+branches: 881
+propagations: 14254
+integer_propagations: 15609
+restarts: 759
+lp_iterations: 113
+walltime: 106.449
+usertime: 106.449
+deterministic_time: 0.372705
+gap_integral: 0.00283542
+solution_fingerprint: 0xb5b88740f5d6d069
+
+
+Objective value = 124.0
+
+z0,17 = 1
+z1,11 = 1
+z2,8 = 1
+z3,2 = 1
+z4,14 = 1
+z5,4 = 1
+z6,0 = 1
+z7,18 = 1
+z8,3 = 1
+z9,6 = 1
+z10,1 = 1
+z11,7 = 1
+z12,15 = 1
+z13,5 = 1
+z14,9 = 1
+z15,13 = 1
+z16,10 = 1
+z17,1504 = 1
+z18,16 = 1
+z20,12 = 1

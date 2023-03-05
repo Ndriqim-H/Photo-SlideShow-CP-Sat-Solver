@@ -1,0 +1,10 @@
+9
+H 2 x y
+H 2 y z
+H 2 z q
+H 2 q x
+H 2 a b
+H 2 b c
+H 2 qq tt
+H 2 tt vv
+H 2 vv rr

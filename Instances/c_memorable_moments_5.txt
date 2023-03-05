@@ -1,0 +1,6 @@
+5
+V 8 tms t201 t81 t51 td7
+H 10 tms t0c t8b1
+H 12 t8b1 t2m1 t51
+H 12 t822 t882 ttc1 t51 t2m1
+V 10 t51 tj62 tr51 t2m1

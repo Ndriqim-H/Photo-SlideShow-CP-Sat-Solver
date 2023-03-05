@@ -1,0 +1,21 @@
+CpSolverResponse summary:
+status: OPTIMAL
+objective: 8
+best_bound: 8
+booleans: 0
+conflicts: 0
+branches: 0
+propagations: 0
+integer_propagations: 1
+restarts: 0
+lp_iterations: 0
+walltime: 45.1654
+usertime: 45.1654
+deterministic_time: 0
+gap_integral: 0
+solution_fingerprint: 0xfaece6ec611c2282
+
+
+Objective value = 8.0
+
+z0,1224 = 1

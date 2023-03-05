@@ -1,0 +1,70 @@
+CpSolverResponse summary:
+status: OPTIMAL
+objective: 311
+best_bound: 311
+booleans: 2399
+conflicts: 2
+branches: 5749
+propagations: 231793
+integer_propagations: 242308
+restarts: 4799
+lp_iterations: 500
+walltime: 50.0456
+usertime: 50.0456
+deterministic_time: 0.422629
+gap_integral: 0.0560675
+solution_fingerprint: 0x5cc8a79270720675
+
+
+Objective value = 311.0
+
+z0,24 = 1
+z1,13 = 1
+z2,30 = 1
+z3,34 = 1
+z4,3 = 1
+z5,36 = 1
+z6,35 = 1
+z7,19 = 1
+z8,11 = 1
+z9,21 = 1
+z10,37 = 1
+z11,26 = 1
+z12,17 = 1
+z13,48 = 1
+z14,27 = 1
+z15,41 = 1
+z16,20 = 1
+z17,39 = 1
+z18,7 = 1
+z19,0 = 1
+z20,9 = 1
+z21,32 = 1
+z22,28 = 1
+z23,43 = 1
+z24,46 = 1
+z25,12 = 1
+z26,15 = 1
+z27,2 = 1
+z28,14 = 1
+z30,40 = 1
+z31,33 = 1
+z32,8 = 1
+z33,22 = 1
+z34,1274 = 1
+z35,18 = 1
+z36,16 = 1
+z37,42 = 1
+z38,6 = 1
+z39,4 = 1
+z40,1 = 1
+z41,47 = 1
+z42,5 = 1
+z43,45 = 1
+z44,23 = 1
+z45,38 = 1
+z46,31 = 1
+z47,44 = 1
+z48,25 = 1
+z49,10 = 1
+z50,49 = 1

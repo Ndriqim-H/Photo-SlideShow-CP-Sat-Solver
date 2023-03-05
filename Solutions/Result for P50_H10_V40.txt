@@ -1,0 +1,31 @@
+CpSolverResponse summary:
+status: OPTIMAL
+objective: 69
+best_bound: 69
+booleans: 111
+conflicts: 0
+branches: 222
+propagations: 2110
+integer_propagations: 2334
+restarts: 222
+lp_iterations: 45
+walltime: 13.3763
+usertime: 13.3763
+deterministic_time: 0.10868
+gap_integral: 0.000260711
+solution_fingerprint: 0xcb74261f546792b3
+
+
+Objective value = 69.0
+
+z0,5 = 1
+z1,3 = 1
+z2,7 = 1
+z3,2 = 1
+z4,6 = 1
+z5,4 = 1
+z6,8 = 1
+z7,1 = 1
+z8,9 = 1
+z9,0 = 1
+z10,789 = 1
